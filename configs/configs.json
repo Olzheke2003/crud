@@ -1,0 +1,5 @@
+{
+   "repository" : {
+     "connection_string" : "user=postgres password=12345 dbname=crud_example sslmode=disable host=localhost port=5432"
+   }
+}
